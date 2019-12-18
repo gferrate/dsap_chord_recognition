@@ -5,4 +5,4 @@
 
 ## Code of the django webpage [here](https://github.com/gferrate/chord_recognition/)
 
-## Demonstration of the webpage [here](https://youtu.be/pJPrGv0MQhM)
+## Demonstration of the webpage [here](https://www.youtube.com/watch?v=3Lcbcv98Nm8)
